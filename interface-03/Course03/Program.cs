@@ -7,13 +7,13 @@ namespace Course03
     {
         static void Main(string[] args)
         {
-            Shape shape1 = new Circle()
+           IShape shape1 = new Circle()
             {
                 Radius = 2.0,
                 Color = Color.White
             };
 
-            Shape shape2 = new Rectangle()
+            IShape shape2 = new Rectangle()
             {
                 Width = 3.5,
                 Height = 4.2,

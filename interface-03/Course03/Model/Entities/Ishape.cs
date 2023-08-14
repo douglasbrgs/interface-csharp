@@ -1,6 +1,6 @@
 ﻿namespace Course03.Model.Entities
 {
-    interface Ishape
+    interface IShape
     {
         double Area();
     }

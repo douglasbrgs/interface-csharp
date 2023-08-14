@@ -2,10 +2,9 @@
 
 namespace Course03.Model.Entities
 {
-    internal abstract class Shape
+    abstract class AbstractShape : IShape
     {
         public Color Color { get; set; }
-
         public abstract double Area();
     }
 }
