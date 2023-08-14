@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33209.295
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VehicleRent", "interface-01\VehicleRent\VehicleRent.csproj", "{76889A2E-A4CC-44AD-B034-77BAB6BD3B06}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContractPayment", "interface-02\ContractPayment\ContractPayment.csproj", "{B3631997-3516-4A6A-A0A4-E7AE971F4842}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76889A2E-A4CC-44AD-B034-77BAB6BD3B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76889A2E-A4CC-44AD-B034-77BAB6BD3B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76889A2E-A4CC-44AD-B034-77BAB6BD3B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76889A2E-A4CC-44AD-B034-77BAB6BD3B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3631997-3516-4A6A-A0A4-E7AE971F4842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3631997-3516-4A6A-A0A4-E7AE971F4842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3631997-3516-4A6A-A0A4-E7AE971F4842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3631997-3516-4A6A-A0A4-E7AE971F4842}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D818206-D048-41DC-A8F4-EF52DB0366E9}
+	EndGlobalSection
+EndGlobal
